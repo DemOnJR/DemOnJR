@@ -21,7 +21,6 @@ I'm a passionate, **self-taught web developer** with 15+ years of hands-on exper
 - 🎮 Co-founded a gaming community that grew to **10,000+ active members**, ranking #1 on Google
 - 🌍 Managed **40+ domains** for **50+ clients** across news, forum, and e-commerce platforms
 - 📡 Built a **Game Tracker Platform** that monitored **100,000+ servers** in real time
-- 🛡️ Created *OldStyle Protection* — an open-source CS 1.6 anti-bot plugin used by top-ranked servers protecting **1M+ players**
 
 ---
 
